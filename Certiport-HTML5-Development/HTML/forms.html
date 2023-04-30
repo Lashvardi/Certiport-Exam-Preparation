@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form Elements Example</title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>User Information</legend>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" min="18" max="100" required>
+        <br>
+        <label for="color">Favorite Color:</label>
+        <input type="color" id="color" name="color" required>
+        <br>
+        <label for="drink">Favorite Drink:</label>
+        <input type="text" id="drink" name="drink" list="drinks" required>
+        <datalist id="drinks">
+          <option value="Coffee">
+          <option value="Tea">
+          <option value="Juice">
+          <option value="Soda">
+        </datalist>
+        <br>
+        <label for="progress">Progress:</label>
+        <meter id="progress" name="progress" min="0" max="100" value="50"></meter>
+        <br>
+        <output name="output" for="name email age color drink progress"></output>
+      </fieldset>
+    </form>
+  </body>
+</html>

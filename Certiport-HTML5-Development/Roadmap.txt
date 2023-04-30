@@ -1,0 +1,65 @@
+Turn On the Word Wrap Function!
+
+###1. Application Lifecycle Management###
+
+1.1 Describe the application lifecycle management stages
+• Plan, design, develop, test, deploy, and maintain
+
+
+
+1) Plan: Define project scope, goals, and resources.
+2) Design: Create software architecture and user interfaces.
+3) Develop: Write code to implement the design.
+4) Test: Check for quality and functionality.
+5) Deploy: Release the software and configure servers.
+6) Maintain: Monitor, fix bugs, and update the software.\
+
+
+
+
+###2. Graphics and Animation###
+
+2.1 See HTML File (Canvas.html)
+
+2.2 See HTML File (Svg.html)
+
+2.3 See HTML File (Graphics.html)
+
+2.4 See HTML File (Filter.html)
+
+
+
+### 3. Forms ###
+
+
+3.1 See HTML File (Forms.html)
+
+3.2 See HTML File (Validation_Forms.html)
+
+
+
+
+### 4. Layouts ###
+
+4.1 See HTML File (Layout.html)
+
+4.2 See Html FIle (Responsive.html)
+
+4.3 See HTML File (Flex.html)
+
+4.4 See HTML File (Grid.html)
+
+
+
+### 5. Javascript Coding ###
+
+
+5.1 See JS File (CustomClass.JS)
+
+5.2 See JS File (JSON.JS)
+
+5.3 See Js FIle (Events.JS)
+
+5.4 See Js File (Api.JS)
+
+5.5 See Js File

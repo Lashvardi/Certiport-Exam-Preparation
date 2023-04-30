@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Canvas Rectangle</title>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="200" height="200"></canvas>
+
+    <script>
+      // Get the canvas element and its context
+      var canvas = document.getElementById("myCanvas");
+      var ctx = canvas.getContext("2d");
+
+      // Set the fill color
+      ctx.fillStyle = "red";
+
+      // Draw a rectangle with a 50 pixel width and height
+      ctx.fillRect(50, 50, 50, 50);
+    </script>
+  </body>
+</html>
